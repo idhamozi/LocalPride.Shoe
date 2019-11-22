@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Local Pride.Shoe</string>
+    <string name="brand_name">Nama Brand</string>
+    <string name="about_nama">Mohammad Idham Fachrurrozi</string>
+    <string name="about_email">muh_idham85@yahoo.com</string>
+    <string name="about_me">About Me</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="contoh_produk">Contoh Produk</string>
+    <string name="instagram">INSTAGRAM</string>
+    <string name="twitter">TWITTER</string>
+    <string name="linked_in">LINKED IN</string>
+</resources>
